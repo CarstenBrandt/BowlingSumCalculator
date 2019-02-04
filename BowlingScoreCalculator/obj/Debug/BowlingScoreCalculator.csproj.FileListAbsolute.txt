@@ -1,0 +1,11 @@
+C:\Users\Cat\source\repos\BowlingScoreCalculator\BowlingScoreCalculator\bin\Debug\BowlingScoreCalculator.exe.config
+C:\Users\Cat\source\repos\BowlingScoreCalculator\BowlingScoreCalculator\bin\Debug\BowlingScoreCalculator.exe
+C:\Users\Cat\source\repos\BowlingScoreCalculator\BowlingScoreCalculator\bin\Debug\BowlingScoreCalculator.pdb
+C:\Users\Cat\source\repos\BowlingScoreCalculator\BowlingScoreCalculator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Cat\source\repos\BowlingScoreCalculator\BowlingScoreCalculator\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Cat\source\repos\BowlingScoreCalculator\BowlingScoreCalculator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Cat\source\repos\BowlingScoreCalculator\BowlingScoreCalculator\obj\Debug\BowlingScoreCalculator.csprojAssemblyReference.cache
+C:\Users\Cat\source\repos\BowlingScoreCalculator\BowlingScoreCalculator\obj\Debug\BowlingScoreCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Cat\source\repos\BowlingScoreCalculator\BowlingScoreCalculator\obj\Debug\BowlingScoreCalculator.csproj.CopyComplete
+C:\Users\Cat\source\repos\BowlingScoreCalculator\BowlingScoreCalculator\obj\Debug\BowlingScoreCalculator.exe
+C:\Users\Cat\source\repos\BowlingScoreCalculator\BowlingScoreCalculator\obj\Debug\BowlingScoreCalculator.pdb
